@@ -1,0 +1,58 @@
+
+body {
+    background-color: #56658c;
+    font-family: 'Raleway', sans-serif;
+}
+
+#header {
+    background-color: #b6d168;
+    margin-bottom: 20px;
+    color: white;
+}
+
+button {
+    background-color: #50adbf !important;
+}
+
+#website-button {
+    background-color: #50adbf !important;
+    color:black;
+    border: none;
+    border-radius: .23rem;
+    padding: .5rem 1rem;
+    
+}
+
+.tab-pane {
+    background-color: #56658c;
+}
+
+
+.col {
+    border: .5pt solid black;
+    padding: 5px;
+    background-color: #e7e7dd;
+}
+
+
+.card-title {
+    background-color: #cf7692;
+    text-align: center;
+    color:white;
+}
+
+
+.card-text {
+    text-align: center;
+}
+
+.card-text-muted {
+    text-align: center;
+}
+
+
+.card-footer {
+    text-align: center;
+    background-color: e7e7dd;
+    text-decoration: none;
+}
